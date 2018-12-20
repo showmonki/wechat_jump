@@ -1,7 +1,7 @@
 # wechat_jump
-Platform: Mac
-package: WDA
-Python_version: 3.x
+* Platform: Mac
+* package: WDA
+* Python_version: 3.x
 
 ## Steps
 * Screen shot for mobile
